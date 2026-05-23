@@ -104,6 +104,7 @@ Com tudo configurado, basta iniciar o script principal:
 
 Bash
 python main.py
+
 👨‍💻 Autor
--
+
 Desenvolvido com 💻 por Julio Nogueira.
